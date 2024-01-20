@@ -1,4 +1,5 @@
-[
+{
+"Posts" : [
     {
         "id": "1",
         "name": "Classic Spider"
@@ -40,3 +41,4 @@
         "name": "Insulator Spider"
     }
 ]
+}
