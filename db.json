@@ -40,5 +40,22 @@
         "id": "10",
         "name": "Insulator Spider"
     }
-]
+],
+    "comments" : [
+        {
+            "id": "1",
+             "review" : "Amazing spidermans"
+        },
+        {
+            "id": "2",
+             "review" : "Ultimate spidermans"
+        },
+        {
+            "id": "3",
+             "review" : "Miles Morals spiderman"
+        },
+    ],
+    "profile" : {
+        "name": "profile2"
+    }
 }
