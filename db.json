@@ -1,5 +1,5 @@
 {
-"Posts" : [
+"Posts":[
     {
         "id": "1",
         "name": "Classic Spider"
@@ -41,7 +41,7 @@
         "name": "Insulator Spider"
     }
 ],
-    "comments" : [
+    "comments":[
         {
             "id": "1",
              "review" : "Amazing spidermans"
@@ -53,9 +53,9 @@
         {
             "id": "3",
              "review" : "Miles Morals spiderman"
-        },
+        }
     ],
-    "profile" : {
+    "profile":{
         "name": "profile2"
     }
 }
